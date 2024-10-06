@@ -8,7 +8,7 @@ use llfloat=long double;
 use str=std::string;
 #undef use
 int main() {
-	#include "../script.cpp"
+	#include "script.cpp"
 	return 0;
 }
 
