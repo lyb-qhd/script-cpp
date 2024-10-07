@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 #define u using
-#define us us
+#define us unsigned
 u uchar=us char;
 u ushort=us short;
 u uint=us int;
@@ -11,7 +11,7 @@ u str=std::string;
 #undef u
 #undef us
 int main() {
-	#include "../script.cpp"
+	#include "../main.cpp"
 	return 0;
 }
 
