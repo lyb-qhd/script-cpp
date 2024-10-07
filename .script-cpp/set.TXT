@@ -1,0 +1,1 @@
+E:/foundation/software/dev c++/dev-cpp/mingw64/bin/g++.exe
